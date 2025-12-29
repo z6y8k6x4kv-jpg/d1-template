@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "659268c9-34b5-446a-b31d-412b8d8a4741",
+			"database_name": "lina-stores-onboarding"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
